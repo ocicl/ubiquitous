@@ -3,7 +3,7 @@
 A library providing a universal application configuration mechanism.
 
 |---------+------------------------------------------------|
-| source  | git:https://github.com/Shinmera/ubiquitous.git |
-| commit  | 9d1615e                                        |
+| source  | git:https://codeberg.org/shinmera/ubiquitous.git |
+| commit  | 0000000                                        |
 | systems | ubiquitous ubiquitous-concurrent               |
 |---------+------------------------------------------------|
